@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TODOC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68728f6e5a9f18ce35801ad8ca705988484130df")]
 [assembly: System.Reflection.AssemblyProductAttribute("TODOC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TODOC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
